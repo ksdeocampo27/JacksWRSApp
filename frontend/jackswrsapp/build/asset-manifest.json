@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/JacksWRSApp/static/css/main.b2b89edd.css",
+    "main.js": "/JacksWRSApp/static/js/main.fd3e2a10.js",
+    "static/js/453.e607ad1a.chunk.js": "/JacksWRSApp/static/js/453.e607ad1a.chunk.js",
+    "index.html": "/JacksWRSApp/index.html",
+    "main.b2b89edd.css.map": "/JacksWRSApp/static/css/main.b2b89edd.css.map",
+    "main.fd3e2a10.js.map": "/JacksWRSApp/static/js/main.fd3e2a10.js.map",
+    "453.e607ad1a.chunk.js.map": "/JacksWRSApp/static/js/453.e607ad1a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2b89edd.css",
+    "static/js/main.fd3e2a10.js"
+  ]
+}
